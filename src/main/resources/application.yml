@@ -1,0 +1,4 @@
+#application
+spring:
+  profiles:
+    active: do-not-up
